@@ -1,0 +1,43 @@
+---
+title: An MLP (Multi-Layer Perceptron)-based method for optimizing multiple hull forms
+  at once using surrogate modeling with geometric moments
+authors:
+- Jin-Hyeok Kim
+- Myung-Il Roh
+- In-Chang Yeo
+date: '2025-01-01'
+publishDate: '2025-11-06T12:50:15.951271Z'
+publication_types:
+- article-journal
+publication: '*Ocean Engineering*'
+doi: https://doi.org/10.1016/j.oceaneng.2025.122121
+abstract: The hydrodynamic performance of a hull form is a crucial factor in the design
+  process, and optimizing it typically requires computationally expensive and time-consuming
+  CFD analyses. To overcome this issue, numerous approaches have been explored to
+  efficiently handle hull forms characterized by high-dimensional parameter spaces
+  and mitigate the associated computational complexity. In this study, we proposed
+  a method that enables efficient optimization without restricting the degrees of
+  freedom of the hull form. First, we introduced a hull form generation approach utilizing
+  an MLP, allowing each vertex of the hull mesh to serve as a design variable and
+  move freely. By directly incorporating hydrodynamic performance-related terms into
+  the loss function of the MLP, our method enables effective searches for optimal
+  solutions even in high-dimensional design spaces. Additionally, we considered design
+  constraints, such as block coefficient (CB) and longitudinal center of buoyancy
+  (LCB), and hull form surface quality, such as fairness, throughout the hull form
+  generation and optimization process. To evaluate the hydrodynamic performance of
+  hull forms efficiently, we constructed and employed a surrogate model that incorporates
+  a dimensionality reduction technique based on geometric moments. Finally, we applied
+  the proposed hull form optimization method to the publicly available KCS (KRISO
+  Container Ship) hull form. The results demonstrated that our approach successfully
+  explores hull forms that enhance hydrodynamic performance while leveraging high-dimensional
+  design variables.
+tags:
+- Hull form optimization
+- MLP (Multi-Layer Perceptron)
+- Mesh deformation
+- Surrogate model
+- KCS (KRISO Container Ship)
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0029801825018050
+---

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: In-Chang Yeo
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: In-Chang
+last_name: Yeo
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,90 +23,77 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: SyDLab
+    url: https://sydlab.snu.ac.kr
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:In-Chang Yeo.iys02191@snu.ac.kr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/inchang-yeo/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=k6h32HEAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-3940-2093
 
 interests:
-  - Large Language Models
+  - Unmanned Surface Vehicles
+  - AI
   - Computer Vision
   - Reinforcement Learning
-  - AI Ethics
+  - Route Planning
+
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Ph.D. Candidate, Department of Naval Architecture and Ocean Engineering
+    institution: Seoul National University, Republic of Korea
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+    date_start: 2020-03-01
+    date_end: 2026-08-31 # 2026년 8월을 의미
+    # summary: |
+    #   여기에 박사 과정에 대한 요약 (논문 주제 등)을 추가할 수 있습니다.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
+  - area: B.S., Department of Naval Architecture and Ocean Engineering
+    institution: Seoul National University, Republic of Korea
+    icon: "hero/academic-cap"
+    date_start: 2014-03-01
+    date_end: 2020-02-29 # 2020년 2월을 의미
+    # summary: |
+    #   여기에 학사 과정에 대한 요약을 추가할 수 있습니다.
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+# work:
+#   - position: Senior AI Research Scientist
+#     company_name: Meta AI
+#     company_url: 'https://ai.meta.com/'
+#     icon: ''
+#     date_start: 2020-01-01
+#     date_end: ''
+#     summary: |2-
+#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+#   - position: AI Research Intern
+#     company_name: OpenAI
+#     company_url: 'https://openai.com/'
+#     icon: ''
+#     date_start: 2019-06-01
+#     date_end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
         percent: 95
         icon: code-bracket
@@ -114,59 +101,113 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Computer Vison
         description: ''
         percent: 85
-        icon: cloud
+        icon: eye
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Economics
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        icon: arrow-trending-up
+      - name: Traveling
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        icon: globe-americas
+      - name: Movie
         description: ''
         percent: 70
-        icon: book-open
+        icon: film
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Best Presentation Award
+    date: '2025-08-01'
+    awarder: The Society of CAD/CAM Engineers, Korea
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
+      Paper: "A Learning-Based Tracking Method for Maritime Obstacles"
+  - title: Best Presentation Award
+    date: '2025-08-01'
+    awarder: The Society of CAD/CAM Engineers, Korea
+    icon: hero/trophy
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      Paper: "A Collision Avoidance Method for a 6-DOF USV Based on Deep Reinforcement Learning Considering Sea State"
+  - title: Student Best Paper Presentation Award
+    date: '2025-05-01'
+    awarder: The Society of Naval Architects of Korea (SNAK)
+    icon: hero/trophy
+    summary: |
+      Paper: "An Automatic Berthing Method for USVs Using Multi-Sensor Fusion"
+  - title: Student Best Paper Presentation Award
+    date: '2025-05-01'
+    awarder: The Society of Naval Architects of Korea (SNAK)
+    icon: hero/trophy
+    summary: |
+      Paper: "An Adaptive Control Method for Offshore Cranes Based on Deep Reinforcement Learning Considering Various Operating Conditions"
+  - title: Outstanding Graduate Student Award
+    date: '2023-12-01'
+    awarder: BK21 Phase 4 University Innovation Project Group
     icon: hero/academic-cap
+    summary: '' # CV에 세부 내용이 없어 비워둠
+  - title: Best Paper Presentation Award
+    date: '2023-11-01'
+    awarder: The Society of Naval Architects of Korea (SNAK)
+    icon: hero/trophy
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Paper: "A Study on the Application of GNN for Hull Form Design"
+  - title: Best Paper Presentation Award
+    date: '2023-11-01'
+    awarder: The Society of Naval Architects of Korea (SNAK)
+    icon: hero/trophy
+    summary: |
+      Paper: "An Algorithm for Generating Automatic Berthing and Unberthing Paths for Ships Using LiDAR"
+  - title: Best Paper Award
+    date: '2023-08-01'
+    awarder: The Society of CAD/CAM Engineers, Korea
+    icon: hero/trophy
+    summary: |
+      Paper: "Automated Data Generation and Deep Learning-Based Object Detection for Reviewing Ship Safety Plans"
+  - title: Best Paper Award
+    date: '2023-08-01'
+    awarder: The Society of CAD/CAM Engineers, Korea
+    icon: hero/trophy
+    summary: |
+      Paper: "Representation and Analysis of Equipment Connectivity in P&IDs Using Graphs"
+  - title: Best Paper Award
+    date: '2023-02-01'
+    awarder: The Society of CAD/CAM Engineers, Korea
+    icon: hero/trophy
+    summary: |
+      Paper: "An Automatic Generation Method for Ship Surround View Images"
+  - title: Best Paper Award
+    date: '2023-02-01'
+    awarder: The Society of CAD/CAM Engineers, Korea
+    icon: hero/trophy
+    summary: |
+      Paper: "A Hull Form Transformation Method for Merchant Ships Based on Local Deformation Considering Design Requirements"
+  - title: Best Paper Award
+    date: '2021-08-01'
+    awarder: The Society of CAD/CAM Engineers, Korea
+    icon: hero/trophy
+    summary: |
+      Paper: "Visualization of a Hull Performance Prediction Model Using Score-CAM"
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+In-Chang Yeo is a Ph.D. candidate in the Department of Naval Architecture and Ocean Engineering at Seoul National University, specializing in end-to-end autonomous navigation systems for ships. His doctoral research focuses on integrating the entire pipeline, from S-57 chart-based route planning to final automatic berthing.
+
+His work leverages robust perception technologies, using monocular cameras for ship detection and localization, and stereo cameras to construct 3D Pseudo-LiDAR maps for complex docking maneuvers. He applies Reinforcement Learning (RL) to develop advanced controllers for both collision avoidance and precision berthing. A core component of his methodology involves designing high-fidelity digital twin simulation environments in Unity (C#) to robustly train and validate these AI models using a sim-to-real approach.
+
+His practical experience is validated through multiple real-world ship tests and project collaborations with key industry partners, including KRISO, Hanwha Ocean, and Avikus.

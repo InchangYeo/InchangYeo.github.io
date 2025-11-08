@@ -4,7 +4,7 @@ title: A method for generating multiple hull forms at once using MLP (Multi-Laye
 authors:
 - Jin-Hyeok Kim
 - Myung-Il Roh
-- In-Chang Yeo
+- admin
 date: '2025-01-01'
 publishDate: '2025-11-06T12:50:15.959690Z'
 publication_types:

@@ -2,7 +2,7 @@
 title: Optimal arrangement design of pipeline support by considering safety and production
   cost
 authors:
-- In-Chang Yeo
+- admin
 - Myung-Il Roh
 - Do-Hyun Chun
 - Seok Ho Jang

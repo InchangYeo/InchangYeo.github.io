@@ -31,14 +31,36 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research Projects'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        **Researcher/Project Manager (03/2020 – 12/2023; 02/2023 – Present) with Korea Research Institute of Ships and Ocean Engineering (KRISO)**
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        *Project: Development of the Situation Awareness and Autonomous Navigation Technology of Unmanned Surface Vehicles Based on Artificial Intelligence*
 
-        Please reach out to collaborate 😃
+        *Project: Development of Obstacle Detection and Tracking Program for Unmanned Surface Vehicles*
+
+
+        **Researcher/Project Manager (04/2024 – 09/2025) with HD Hyundai Heavy Industries Co Ltd**
+
+        *Project: Development of a Pump Tower Optimization Program*
+
+
+        **Researcher/Project Manager (10/2022 – 09/2023) with HD Korea Shipbuilding & Offshore Engineering Co Ltd**
+
+        *Project: Development of an AI-based Ship Design Support Solution*
+
+        **Researcher/Project Manager (02/2022 – 02/2025) with Hanwha Ocean Co Ltd**
+
+        *Project: Development of Foundational Technologies for Autonomous Navigation*
+
+        **Researcher (12/2020 – 03/2021; 04/2021 – 02/2022) with Hanwha Ocean Co Ltd**
+
+        *Project: Development of an Automated Stress Analysis Method for Ship Piping Systems*
+
+        *Project: Development of a Method for Optimizing Ship Piping Systems Considering Stress Analysis*
+
+
     design:
       columns: '1'
   - block: collection
@@ -47,7 +69,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publications
+          - publication
         featured_only: true
     design:
       view: article-grid
@@ -58,7 +80,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: false
     design:
       view: citation

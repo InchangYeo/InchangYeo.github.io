@@ -4,7 +4,7 @@ title: An MLP (Multi-Layer Perceptron)-based method for optimizing multiple hull
 authors:
 - Jin-Hyeok Kim
 - Myung-Il Roh
-- In-Chang Yeo
+- admin
 date: '2025-01-01'
 publishDate: '2025-11-06T12:50:15.951271Z'
 publication_types:

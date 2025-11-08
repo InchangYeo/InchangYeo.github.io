@@ -3,7 +3,7 @@ title: A route planning method for small ships in coastal areas based on quadtre
 authors:
 - Dong-Guen Jeong
 - Myung-Il Roh
-- In-Chang Yeo
+- admin
 - Ki-Su Kim
 - Jun-Sik Lee
 date: '2025-01-01'

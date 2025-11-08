@@ -4,7 +4,7 @@ title: Proposed method for design optimization of LNG tanks based on the arrange
 authors:
 - Do-Hyun Chun
 - Myung-Il Roh
-- In-Chang Yeo
+- admin
 - Hye-Won Lee
 date: '2023-01-01'
 publishDate: '2025-11-06T12:50:15.993922Z'

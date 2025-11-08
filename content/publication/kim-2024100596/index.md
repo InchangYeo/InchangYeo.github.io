@@ -4,7 +4,7 @@ title: Hull form optimization of fully parameterized small ships using character
 authors:
 - Jin-Hyeok Kim
 - Myung-Il Roh
-- In-Chang Yeo
+- admin
 date: '2024-01-01'
 publishDate: '2025-11-06T12:50:15.985405Z'
 publication_types:

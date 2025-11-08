@@ -1,10 +1,11 @@
 ---
 title: A hybrid tracking method for maritime obstacles using sensor data
+featured: true
 authors:
 - Ha-Yun Kim
 - Myung-Il Roh
 - Hye-Won Lee
-- In-Chang Yeo
+- admin
 - Yeong-Min Jo
 - Jisang Ha
 - Nam-Sun Son

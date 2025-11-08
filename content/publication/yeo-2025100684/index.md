@@ -1,7 +1,8 @@
 ---
 title: A route planning method for small ships inside the marina
+featured: true
 authors:
-- In-Chang Yeo
+- admin
 - Myung-Il Roh
 - Dong-Guen Jeong
 - Jun-Sik Lee

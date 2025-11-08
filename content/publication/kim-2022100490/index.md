@@ -5,7 +5,7 @@ authors:
 - Jin-Hyeok Kim
 - Myung-Il Roh
 - Ki-Su Kim
-- In-Chang Yeo
+- admin
 - Min-Jae Oh
 - Jung-Woo Nam
 - Sahng-Hyon Lee
